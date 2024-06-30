@@ -19,7 +19,7 @@ To get started with **Category Selector**, follow these instructions.
 
 - PHP >= 8.0
 - Composer
-- MySQL or SQLite database
+- MySQL database
 - Node.js and NPM (optional, required for frontend assets)
 
 ### Installation
