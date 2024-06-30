@@ -63,5 +63,10 @@ To get started with **Category Selector**, follow these instructions.
 7. **Compile frontend assets:**
    ```bash
    npm install && npm run dev
+
+8. **Run the development server:**
+   ```bash
+   php artisan serve
+   
    
 
